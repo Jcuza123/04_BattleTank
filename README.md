@@ -6,3 +6,4 @@ Part of the Complete Unreal Creator course on Udemy. We will be creating an open
 * BT01 Section Introduction
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
+* BT03 Setting up a Github "Repo"
