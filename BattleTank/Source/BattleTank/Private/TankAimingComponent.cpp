@@ -38,7 +38,8 @@ void UTankAimingComponent::AimAt(FVector HitLocation, float LaunchSpeed)
 		false,
 		0,
 		0,
-		ESuggestProjVelocityTraceOption::DoNotTrace
+		ESuggestProjVelocityTraceOption::DoNotTrace //Parameter must be present to prevent bug
+		//TODO report bug
 	);
 
 	if(bHaveAimSolution)
